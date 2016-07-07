@@ -1,0 +1,13 @@
+img {
+  max-width: 400px;
+}
+
+.red_outline {
+  border: 1px solid red;
+/*  border-width: 1px;
+  border-style: solid;
+  border-color: red;*/
+  padding: 1px 3px 5px 4px; /*top right bottom left*/
+  padding: 3px 4px; /*top&bottom left&right*/
+}
+
