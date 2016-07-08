@@ -4,7 +4,15 @@
 
 body {
   font-family: sans-serif;
-  color: #222222;
+  color: #853219;
+}
+
+.hidden {
+  display: none;
+}
+
+.min_input {
+  min-width: 200px
 }
 
 img {
@@ -15,12 +23,12 @@ img {
   border: 1px solid red;
   padding: 20px; 
   margin: 10px; 
-  background-color: azure;
+  background-color: #ffff83;
 
 }
 
-.article 1 > section {
-  color: blue;
+#article1 > section, #article2 > section, #article3 > section {
+  color: red;
 }
 
 a {
